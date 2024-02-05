@@ -7,8 +7,8 @@ Key Objectives:
 1- Identify Relevant Data Points
 2- Web Scraping from Multiple Sources:
 3- Utilize web scraping techniques to gather data from diverse platforms, including:
-www.Finance.yahoo.com
-www.money.tmx.com
+www.Finance.yahoo.com,
+www.money.tmx.com,
 www.theglobeandmail.com
 4- Legal and Ethical Considerations:
 5- Data Cleaning and Transformation:
