@@ -1,6 +1,7 @@
 # Project_2-Challenge
 
-Project No. 2 represents a progression from the first project. Due to time constraints, my project group from Project 1 decided to work on the default option (Option 1), prompting me to independently work on this project.
+Project No. 2 represents a progression from the first project, it is an analysis of three companies listed on the Canadian stock market. in this link ( https://github.com/jash1112/project-financial_analysis).
+Due to time constraints, the Project 1 group decided to work on the default option (Option 1), prompting me to independently work on this project.
 
 Key Objectives:
 1- Identify Relevant Data Points
